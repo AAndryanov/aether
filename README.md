@@ -56,11 +56,12 @@
 Критерий приемки:
 - Трек появляется на странице "Главная" в разделе "Последние добавления" сразу после загрузки
 
-https://github.com/AAndryanov/aether/blob/main/img/1.png
-https://github.com/AAndryanov/aether/blob/main/img/2.png
-https://github.com/AAndryanov/aether/blob/main/img/3.png
-https://github.com/AAndryanov/aether/blob/main/img/4.png
-https://github.com/AAndryanov/aether/blob/main/img/5.png
-https://github.com/AAndryanov/aether/blob/main/img/6.png
-https://github.com/AAndryanov/aether/blob/main/img/7.png
-https://github.com/AAndryanov/aether/blob/main/img/8.png
+## Макет интерфейса
+![img1](https://github.com/AAndryanov/aether/blob/main/img/1.png)
+![img2](https://github.com/AAndryanov/aether/blob/main/img/2.png)
+![img3](https://github.com/AAndryanov/aether/blob/main/img/3.png)
+![img4](https://github.com/AAndryanov/aether/blob/main/img/4.png)
+![img5](https://github.com/AAndryanov/aether/blob/main/img/5.png)
+![img6](https://github.com/AAndryanov/aether/blob/main/img/6.png)
+![img7](https://github.com/AAndryanov/aether/blob/main/img/7.png)
+![img8](https://github.com/AAndryanov/aether/blob/main/img/8.png)
