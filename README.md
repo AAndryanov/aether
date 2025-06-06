@@ -56,3 +56,11 @@
 Критерий приемки:
 - Трек появляется на странице "Главная" в разделе "Последние добавления" сразу после загрузки
 
+https://github.com/AAndryanov/aether/blob/main/img/1.png
+https://github.com/AAndryanov/aether/blob/main/img/2.png
+https://github.com/AAndryanov/aether/blob/main/img/3.png
+https://github.com/AAndryanov/aether/blob/main/img/4.png
+https://github.com/AAndryanov/aether/blob/main/img/5.png
+https://github.com/AAndryanov/aether/blob/main/img/6.png
+https://github.com/AAndryanov/aether/blob/main/img/7.png
+https://github.com/AAndryanov/aether/blob/main/img/8.png
