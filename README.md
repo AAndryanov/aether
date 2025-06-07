@@ -81,4 +81,3 @@
 ![img5](https://github.com/AAndryanov/aether/blob/main/img/5.png)
 ![img6](https://github.com/AAndryanov/aether/blob/main/img/6.png)
 ![img7](https://github.com/AAndryanov/aether/blob/main/img/7.png)
-![img8](https://github.com/AAndryanov/aether/blob/main/img/8.png)
