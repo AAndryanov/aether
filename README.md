@@ -79,5 +79,5 @@
 ![img3](https://github.com/AAndryanov/aether/blob/main/img/3.png)
 ![img4](https://github.com/AAndryanov/aether/blob/main/img/4.png)
 ![img5](https://github.com/AAndryanov/aether/blob/main/img/5.png)
-![img6](https://github.com/AAndryanov/aether/blob/main/img/6.png)
-![img7](https://github.com/AAndryanov/aether/blob/main/img/7.png)
+![img6](https://github.com/AAndryanov/aether/blob/main/img/6(1).png)
+![img7](https://github.com/AAndryanov/aether/blob/main/img/7(1).png)
